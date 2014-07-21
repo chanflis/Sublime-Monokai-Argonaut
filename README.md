@@ -9,4 +9,7 @@ Getting started
 
 Go to  Preferences -> Browse Packages, and download the scheme in  "Theme - Argonaut" directory 
 
+2.- Switch Scheme
+Go to Preferences -> Color Scheme/Theme - Argonaut/Monokai-Argonaut
+
 <img src="example.PNG">
